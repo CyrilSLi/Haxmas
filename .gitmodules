@@ -1,3 +1,9 @@
 [submodule "day1"]
 	path = day1
 	url = https://github.com/CyrilSLi/christmas-clicker-game.git
+[submodule "day4"]
+	path = day4
+	url = https://github.com/CyrilSLi/haxmas-day4
+[submodule "day5"]
+	path = day5
+	url = https://github.com/CyrilSLi/haxmas-day5
