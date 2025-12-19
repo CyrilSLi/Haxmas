@@ -7,3 +7,6 @@
 [submodule "day5"]
 	path = day5
 	url = https://github.com/CyrilSLi/haxmas-day5
+[submodule "day7"]
+	path = day7
+	url = https://github.com/CyrilSLi/haxmas-day7.git
